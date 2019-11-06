@@ -1,4 +1,4 @@
-![newbee-logo](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/product/newbee-logo.png?x-oss-process=image/resize,h_240,w_480)
+![newbee-logo](https://images.gitee.com/uploads/images/2019/1106/173406_af00738b_5249807.png)
 
 ![Build Status](https://img.shields.io/badge/build-passing-green.svg)
 ![Version 1.0.0](https://img.shields.io/badge/version-1.0.0-yellow.svg)
@@ -8,7 +8,7 @@ newbee-mall 项目是一套电商系统，包括 newbee-mall 商城系统及 new
 
 **坚持不易，如果觉得项目还不错的话可以给项目一个 Star 吧，也是对我一直更新代码的一种鼓励啦，谢谢各位的支持。**
 
-![newbee-mall-info](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/store/newbee-mall-info-a.png)
+![newbee-mall-info](https://images.gitee.com/uploads/images/2019/1106/173406_b467c1c8_5249807.png)
 
 - newbee-mall 对新手开发者十分友好，无需复杂的操作步骤，**仅需 2 秒就可以启动这个完整的商城项目；**
 - newbee-mall **也是一个企业级别的 Spring Boot 大型项目，对于各个阶段的 Java 开发者都是极佳的选择；**
@@ -20,7 +20,7 @@ newbee-mall 项目是一套电商系统，包括 newbee-mall 商城系统及 new
 
 > 更多 Spring Boot 实战项目可以关注十三的另一个代码仓库 [spring-boot-projects](https://github.com/ZHENFENG13/spring-boot-projects)，该仓库中主要是 Spring Boot 的入门学习教程以及一些常用的 Spring Boot 实战项目教程，包括 Spring Boot 使用的各种示例代码，同时也包括一些实战项目的项目源码和效果展示，实战项目包括基本的 web 开发以及目前大家普遍使用的前后端分离实践项目等，后续会根据大家的反馈继续增加一些实战项目源码，摆脱各种 hello world 入门案例的束缚，真正的掌握 Spring Boot 开发。
 
-![newbee-mall-info](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/store/newbee-mall-info-2.png)
+![newbee-mall-info](https://images.gitee.com/uploads/images/2019/1106/173406_bcec7fb7_5249807.png)
 
 ## 项目演示
 
@@ -39,7 +39,7 @@ newbee-mall 项目是一套电商系统，包括 newbee-mall 商城系统及 new
 
 - [newbee-mall in GitHub](https://github.com/newbee-ltd/newbee-mall)
 - [newbee-mall in Gitee](https://gitee.com/newbee-ltd/newbee-mall)
-![newbee-mall-info](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/store/newbee-mall-info-3.png)
+![newbee-mall-info](https://images.gitee.com/uploads/images/2019/1106/173406_5d7ace62_5249807.png)
 
 ## 页面展示
 
@@ -49,64 +49,64 @@ newbee-mall 项目是一套电商系统，包括 newbee-mall 商城系统及 new
 
 - 商城首页 1
 
-	![index](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/product/index-01.png)
+	![index](https://images.gitee.com/uploads/images/2019/1106/173406_df2c8f80_5249807.png)
 
 - 商城首页 2
 
-	![index](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/product/index-02.png)
+	![index](https://images.gitee.com/uploads/images/2019/1106/173406_98e57170_5249807.png)
 
 - 商品搜索
 
-	![search](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/product/search.png)
+	![search](https://images.gitee.com/uploads/images/2019/1106/173406_5eecced6_5249807.png)
 
 - 购物车
 
-	![cart](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/product/cart.png)
+	![cart](https://images.gitee.com/uploads/images/2019/1106/173406_90c8f2a0_5249807.png)
 	
 - 订单结算
 
-	![settle](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/product/settle.png)
+	![settle](https://images.gitee.com/uploads/images/2019/1106/173406_caa4e890_5249807.png)
 			
 - 订单列表
 
-	![orders](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/product/orders.png)	
+	![orders](https://images.gitee.com/uploads/images/2019/1106/173406_b3c86350_5249807.png)	
 	
 - 支付页面
 
-	![settle](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/product/wx-pay.png)
+	![settle](https://images.gitee.com/uploads/images/2019/1106/173406_638e680d_5249807.png)
 
 
 ### 后台管理页面
 
 - 登录页
 
-	![login](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/product/manage-login.png)
+	![login](https://images.gitee.com/uploads/images/2019/1106/173406_2268bfd1_5249807.png)
 
 - 轮播图管理
 
-	![carousel](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/product/manage-carousel.png)
+	![carousel](https://images.gitee.com/uploads/images/2019/1106/173406_4baf9084_5249807.png)
 	
 - 新品上线
 
-    ![config](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/product/manage-index-config.png)
+    ![config](https://images.gitee.com/uploads/images/2019/1106/173406_503cca1e_5249807.png)
 
 - 分类管理
 
-	![category](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/product/manage-category.png)
+	![category](https://images.gitee.com/uploads/images/2019/1106/173406_3d43de1c_5249807.png)
 
 - 商品管理
 
-	![goods](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/product/manage-goods.png)
+	![goods](https://images.gitee.com/uploads/images/2019/1106/173406_1c2b26d9_5249807.png)
 
 - 商品编辑
 
-	![edit](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/product/manage-goods-edit.png)
+	![edit](https://images.gitee.com/uploads/images/2019/1106/173406_9dbb70a2_5249807.png)
 
 - 订单管理
 
-	![order](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/product/manage-order.png)
+	![order](https://images.gitee.com/uploads/images/2019/1106/173406_5cc854a0_5249807.png)
 
-![newbee-mall-info](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/store/newbee-mall-info-3.png)
+![newbee-mall-info](https://images.gitee.com/uploads/images/2019/1106/173406_5d7ace62_5249807.png)
 
 ## 感谢
 
