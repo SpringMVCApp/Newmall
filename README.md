@@ -20,7 +20,10 @@ newbee-mall 项目是一套电商系统，包括 newbee-mall 商城系统及 new
 
 > 更多 Spring Boot 实战项目可以关注十三的另一个代码仓库 [spring-boot-projects](https://github.com/ZHENFENG13/spring-boot-projects)，该仓库中主要是 Spring Boot 的入门学习教程以及一些常用的 Spring Boot 实战项目教程，包括 Spring Boot 使用的各种示例代码，同时也包括一些实战项目的项目源码和效果展示，实战项目包括基本的 web 开发以及目前大家普遍使用的前后端分离实践项目等，后续会根据大家的反馈继续增加一些实战项目源码，摆脱各种 hello world 入门案例的束缚，真正的掌握 Spring Boot 开发。
 
-![newbee-mall-info](https://images.gitee.com/uploads/images/2019/1106/173406_bcec7fb7_5249807.png)
+关注公众号：**程序员的小故事**，回复"勾搭"进群交流。
+
+![wx-gzh](https://images.gitee.com/uploads/images/2019/1215/232410_90c9d45f_5249807.png)
+
 
 ## 项目演示
 
@@ -70,7 +73,7 @@ newbee-mall 项目是一套电商系统，包括 newbee-mall 商城系统及 new
 
 - 商城首页 1
 
-	![index](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/product/index-01.gif)
+	![index](https://images.gitee.com/uploads/images/2019/1215/232410_c576a209_5249807.gif)
 
 - 商城首页 2
 
@@ -137,4 +140,4 @@ newbee-mall 项目是一套电商系统，包括 newbee-mall 商城系统及 new
 - [ColorlibHQ](https://github.com/ColorlibHQ/AdminLTE)
 - [tonytomov](https://github.com/tonytomov/jqGrid)
 - [t4t5](https://github.com/t4t5/sweetalert)
-- [skytotwo](https://github.com/skytotwo/Alipay-WeChat-HTML)
+- [skytotwo](https://github.com/skytotwo/Alipay-WeChat-HTML
