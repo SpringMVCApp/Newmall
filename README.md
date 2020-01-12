@@ -140,4 +140,4 @@ newbee-mall 项目是一套电商系统，包括 newbee-mall 商城系统及 new
 - [ColorlibHQ](https://github.com/ColorlibHQ/AdminLTE)
 - [tonytomov](https://github.com/tonytomov/jqGrid)
 - [t4t5](https://github.com/t4t5/sweetalert)
-- [skytotwo](https://github.com/skytotwo/Alipay-WeChat-HTML
+- [skytotwo](https://github.com/skytotwo/Alipay-WeChat-HTML)
