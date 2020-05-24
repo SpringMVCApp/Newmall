@@ -60,6 +60,8 @@ public class GoodsController {
         }
         request.setAttribute("keyword", keyword);
         params.put("keyword", keyword);
+        //搜索上架状态下的商品
+        params.put("goodsSellStatus", Constants.SELL_STATUS_UP);
         //封装商品数据
         PageQueryUtil pageUtil = new PageQueryUtil(params);
         request.setAttribute("pageResult", newBeeMallGoodsService.searchNewBeeMallGoods(pageUtil));
